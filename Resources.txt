@@ -1,0 +1,7 @@
+https://github.com/PMSI-AlignAlytics/dimple/wiki
+http://app.raw.densitydesign.org/
+http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html?_r=0
+http://annapawlicka.com/pretty-charts-with-dimple-js/
+http://www.w3schools.com/
+http://dimplejs.org/
+http://stackoverflow.com/
