@@ -181,18 +181,7 @@
             xAxis.overrideMax = 325;
             yAxis.overrideMin = 5;
             yAxis.overrideMax = 30;
-            //zAxis.overrideMin = 6;
             zAxis.overrideMax = 15;
-
-
-            sort.forEach(function (owner, k) {
-              chart.assignColor(
-                owner,
-                charts[0].defaultColors[k].fill,
-                "white",
-                (i === 0 ? 0.3 : 1));
-            }, this);
-
 
 
             //add a credit grade inside each bubble
@@ -202,7 +191,6 @@
                   x: parseFloat(t.attr("cx")),
                   y: parseFloat(t.attr("cy"))
                 };
-              //t.attr("fill", "blue");
 
 
               svg.append('text')
